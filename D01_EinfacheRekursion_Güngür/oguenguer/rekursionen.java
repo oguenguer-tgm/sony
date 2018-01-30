@@ -1,7 +1,5 @@
 package oguenguer;
-
 public class rekursionen {
-
 
 	public static long nfak (int i){
 		if(i == 0) {
@@ -88,10 +86,6 @@ public class rekursionen {
 		}
 
 	}
-
-
-
-
 
 
 }
